@@ -3,7 +3,7 @@
 
 
 <h5 align="center">
-  I am Sumaiya Rashmi, a Computer Science and Engineering student exploring the world of technology.<br>
+  I am Sumaiya Rashmi, a Computer Science and Engineering graduate exploring the world of technology.<br>
   I'm currently learning HTML, CSS, PHP, and Laravel to build my web development skills.<br>
   I also have knowledge of C and Java, and I enjoy solving algorithmic problems in competitive programming.<br>
   I'm passionate about continuous learning and growing as a future software engineer. Your support and encouragement mean a lot!
