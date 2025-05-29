@@ -43,11 +43,12 @@
   </a>
 </p>
 
-## 📊 Development Activity
+## 📊 My GitHub Stats
 <p align="center">
-  <img alt="Sumaiya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sumaiya-18&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=d64d9e&icon_color=d64d9e" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya-18&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=d64d9e" />
+    <img alt="Rashmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sumaiya-18&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
+
+<br/>
 
 ## 🌈 Let's Connect
 <p align="center">
