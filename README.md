@@ -33,15 +33,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> </a>
 </p>
 
-## 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/sumaiya-18/Laravel-Ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumaiya-18&repo=Laravel-Ecommerce&theme=radical" alt="E-Commerce Project">
-  </a>
-  <a href="https://github.com/sumaiya-18/Student-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumaiya-18&repo=Student-Management-System&theme=radical" alt="Student Management System">
-  </a>
-</p>
+
 
 ## 📊 My GitHub Stats
 <p align="center">
