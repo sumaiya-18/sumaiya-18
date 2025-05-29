@@ -1,10 +1,6 @@
 <h1 align="center"> <span style="color: #d64d9e">"Assalamu Alaikum"</span> </h1>
 <h4 align="center"> "Welcome To My Profile 💐" </h4>
 
-<p align="center">
-  <img src="" alt="Welcome Image" width="250" height="200">
-</p>
-
 <h5 align="center">
   I am Sumaiya Rashmi, a Computer Science and Engineering student passionate about technology.<br>
   I'm currently focused on PHP and Laravel for backend development and aspire to become a skilled software engineer.<br>
