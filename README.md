@@ -1,22 +1,23 @@
 <h1 align="center"> <span style="color: #d64d9e">"Assalamu Alaikum"</span> </h1>
 <h4 align="center"> "Welcome To My Profile 💐" </h4>
 
+
 <h5 align="center">
-  I am Sumaiya Rashmi, a Computer Science and Engineering student passionate about technology.<br>
-  I'm currently focused on PHP and Laravel for backend development and aspire to become a skilled software engineer.<br>
-  Your support and prayers are greatly appreciated!
+  I am Sumaiya Rashmi, a Computer Science and Engineering student exploring the world of technology.<br>
+  I'm currently learning HTML, CSS, PHP, and Laravel to build my web development skills.<br>
+  I also have knowledge of C and Java, and I enjoy solving algorithmic problems in competitive programming.<br>
+  I'm passionate about continuous learning and growing as a future software engineer. Your support and encouragement mean a lot!
 </h5>
 
 ## 👩‍💻 About Me
-- 🔭 I'm currently working on **PHP projects using Laravel**
-- 🌱 I'm learning **advanced Laravel features**, **RESTful APIs**, and **software architecture patterns**
-- 👯 I'm looking to collaborate on **open-source PHP/Laravel projects and tech communities**
-- 🤝 I'm open to mentorship opportunities and contributing to impactful solutions
-- 🧠 I'm also exploring **Docker**, **GitHub Actions**, and **API integrations**
-- 💼 Portfolio: [sumaiya.dev](https://sumaiya.dev) *(example URL, replace if needed)*
-- 💬 Ask me about **backend development**, **Laravel internals**, or **modern web practices**
+- 🌱 I'm currently learning **HTML, CSS, PHP, and Laravel**
+- 💻 I have knowledge in **C and Java**
+- 🧠 I'm a **competitive problem solver** who loves tackling challenges
+- 👯 I'm interested in collaborating on **simple PHP or frontend projects** to improve my skills
+- 🤝 I'm seeking advice and guidance from experienced developers
+- 💬 Ask me about **basic programming**, **problem-solving**, or **getting started with web development**
 - 📫 Reach me at: **sumaiyarashmi.dev@gmail.com**
-- ⚡ Fun fact: I love turning logic into creative backend magic!
+- ⚡ Fun fact: I'm a quick learner who enjoys turning logic into creative code
 
 ## 🚀 My Technical Stack
 <p align="center">
